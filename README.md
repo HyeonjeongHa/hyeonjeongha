@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## 👋 Hi! I'm Hyeonjeong Ha.
+- 🌱 I'm a Ph.D student at <a href="https://blender.cs.illinois.edu/">Blender Lab</a>, UIUC.
+- 🔭 I’m currently studying Large Language Models and Data-efficiency.
+- 🎖 Previously, M.S. student at KAIST AI.
+- 📫 How to reach me: hh38@illinois.edu
 <!--
 **HyeonjeongHa/hyeonjeongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
