@@ -1,6 +1,5 @@
 ## 👋 Hi! I'm Hyeonjeong Ha.
-- 🌱 I'm a Ph.D student at <a href="https://blender.cs.illinois.edu/">Blender Lab</a>, UIUC.
-- 🔭 I’m currently studying Large Language Models and Data-efficiency.
+- 🌱 I'm a Ph.D candidate at <a href="https://blender.cs.illinois.edu/">Blender Lab</a>, UIUC.
 - 🎖 Previously, M.S. student at KAIST AI.
 - 📫 How to reach me: hh38@illinois.edu
 <!--
